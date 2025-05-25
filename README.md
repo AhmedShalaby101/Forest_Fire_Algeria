@@ -1,1 +1,1 @@
-# Forest_Fire_Algeria
+# Forest_Fire_Algeria_Classification 
